@@ -1,0 +1,12 @@
+{
+  "name": "ErmUral - Copy - Copy - Copy",
+  "short_name": "ErmUral - Copy - Copy - Copy",
+  "id": "com.example.gamename",
+  "description": "",
+  "orientation": "portrait",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "black",
+  "categories": ["games", "entertainment"],
+  "icons": []
+}
